@@ -37,9 +37,9 @@
 
 
 
-    <div class="footer">
+<div class="footer">
         &copy; 2004 Foo Corporation
-    </div>
+</div>
 
 
 * элемент маркированного списка
