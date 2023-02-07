@@ -47,7 +47,7 @@
 
 
 
-<font color=”#1f33b4ff”>Синий текст</font>
+<font color="#1f33b4ff">Синий текст</font>
 
 <font face="Courier New" size="8" color="green"><b>Это мой текст!</b></font>
 
