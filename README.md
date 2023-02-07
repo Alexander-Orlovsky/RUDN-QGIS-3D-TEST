@@ -37,6 +37,103 @@
 
 
 
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+        <style>
+        html, body {
+            background-color: #dde8ee33;
+            font-family: Arial, Verdana, Helvetica, sans-serif;
+            font-size: 1.0em;
+            color: #1f33b4;
+        }
+
+        h4 {
+        font-weight: bold;
+        font-style: italic;
+        <!-- color: #840000ff; -->
+        <!-- text-decoration: underline; -->
+        }
+        </style>
+
+
+<!-- ===================================================================================================================== -->
+
+
+<h1>Моя подборка примеров блоков HTML-кода</h1>
+
+
+<br>
+<h2 style="font-size: 2.2em; font-family: monospace; color: #1a9835ff">Тесты А.В.Орловского</h2>
+
+
+<h3>Это пример вставки ЗЩ в свою HTML-страницу с использованием iframe</h3>
+<p>А это правильные рекомендации: You can use the height and width attributes to specify the size of the iframe:</p>
+<iframe src="http://umap.openstreetmap.fr/ru/map/anonymous-edit/520224:cfEjyfnEYo7wlFFITRK3W5R8R4Y"  style="border:2px solid red; height:200px; width:50%; margin-left:100px;"
+       >Почему-то текст здесь не на что не влияет, но и не виден???</iframe>
+
+<br>
+<br>
+<br>
+<h3>Это пример вставки гиперссылки, как картинки и логически связанной с ней подписью:</h3>
+<!-- Нашел его здесь https://netology-code.github.io/guides/wm-cheat-sheet -->
+
+<p>В этом варианте кликабельны и картинка, и подпись</p>
+<figure>
+<a href="http://www.gisa.ru" target="_blank">
+  <img src="Пальма Теклая.png" alt="Нет фото" style="width:250x; height:150px; border:3px solid #ff00ff;">
+  <figcaption>Это пальма Теклая</figcaption>
+<a>
+</figure>
+
+
+<br>
+<p>А в этом варианте - только картинка</p>
+<figure>
+<a href="http://www.gisa.ru" target="_blank">
+  <img src="Пальма Теклая.png" alt="Нет фото" style="width:250x; height:150px; border:3px solid #ff00ff;">
+<a>
+  <figcaption>Это пальма Теклая</figcaption>
+</figure>
+
+
+<br>
+<h3>Это пример использования аббревиатур:</h3>
+<!-- Нашел его здесь https://webref.ru/course/html-content/inline-semantics -->
+<p>
+  Я только что купил <abbr title="Compact Disc">CD</abbr>.
+</p>
+
+
+<br>
+<h3>Это пример строчной цитаты (кавычки):</h3>
+<!-- Нашел его здесь https://webref.ru/course/html-content/inline-semantics -->
+<!-- <blockquote> является блочным элементом, у него есть строчная версия <q> -->
+<p>
+  Он сказал <q>Привет, мир</q> и просто ушёл.
+</p>
+
+
+
+
+
+
+<br><br><br>
+<p>ххххххххххххххх Это как бы нижний элемент у меня на странице ххххххххххххххх</p>
+
+</body>
+</html>
+
+
+
+
+
+
+
 <div class="footer">
         &copy; 2004 Foo Corporation
 </div>
