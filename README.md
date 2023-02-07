@@ -39,29 +39,19 @@
 
 
 
-
-<!DOCTYPE html>
-<html>
-<body>
-
-        <style>
-        html, body {
-            background-color: #dde8ee33;
-            font-family: Arial, Verdana, Helvetica, sans-serif;
-            font-size: 1.0em;
-            color: #1f33b4;
-        }
-
-        h4 {
-        font-weight: bold;
-        font-style: italic;
-        <!-- color: #840000ff; -->
-        <!-- text-decoration: underline; -->
-        }
-        </style>
-
-
 <!-- ===================================================================================================================== -->
+
+
+<p style="letter-spacing: 4.5px">Lorem ipsum </p>
+<p style="letter-spacing: -2pt; line-height:55pt"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+
+
+
+<font color=”#1f33b4ff”>Синий текст</font>
+
+<font face="Courier New" size="8" color="green"><b>Это мой текст!</b></font>
+
+
 
 
 <h1>Моя подборка примеров блоков HTML-кода</h1>
