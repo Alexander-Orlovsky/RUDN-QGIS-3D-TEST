@@ -43,12 +43,12 @@
 
 
 <p style="letter-spacing: 4.5px">Lorem ipsum </p>
-<p style="letter-spacing: -2pt; line-height:55pt"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+<p style="letter-spacing: -2pt; line-height:255pt"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
 
 
 
-<font color="#1f33b4ff">Синий текст</font>  
-
+<font color="#1f33b4ff">Синий текст</font>
+<br>
 <font face="Courier New" size="8" color="green"><b>Это мой текст!</b></font>
 
 
@@ -72,23 +72,6 @@
 <h3>Это пример вставки гиперссылки, как картинки и логически связанной с ней подписью:</h3>
 <!-- Нашел его здесь https://netology-code.github.io/guides/wm-cheat-sheet -->
 
-<p>В этом варианте кликабельны и картинка, и подпись</p>
-<figure>
-<a href="http://www.gisa.ru" target="_blank">
- <img src="media/a6370fe89c7468bc99dd84783a8ccaee.png" alt="Нет фото" style="width:250x; height:50px; border:3px solid #ff00ff;">
- <figcaption>Это пальма Теклая</figcaption>
-<a>
-</figure>
-
-
-<br>
-<p>А в этом варианте - только картинка</p>
-<figure>
-<a href="http://www.gisa.ru" target="_blank">
- <img src="media/a6370fe89c7468bc99dd84783a8ccaee.png" alt="Нет фото" style="width:250x; height:50px; border:3px solid #ff00ff;">
-<a>
- <figcaption>Это пальма Теклая</figcaption>
-</figure>
 
 
 <br>
