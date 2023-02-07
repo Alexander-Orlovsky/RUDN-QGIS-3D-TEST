@@ -43,7 +43,7 @@
 
 
 <p style="letter-spacing: 4.5px">Lorem ipsum </p>
-<p style="letter-spacing: -2pt; line-height:255pt"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+<p style="letter-spacing: -2pt; line-height:25pt"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
 
 
 
