@@ -85,7 +85,7 @@
 <p>В этом варианте кликабельны и картинка, и подпись</p>
 <figure>
 <a href="http://www.gisa.ru" target="_blank">
-  <img src="Пальма Теклая.png" alt="Нет фото" style="width:250x; height:150px; border:3px solid #ff00ff;">
+  <img src="media/a6370fe89c7468bc99dd84783a8ccaee.png" alt="Нет фото" style="width:250x; height:150px; border:3px solid #ff00ff;">
   <figcaption>Это пальма Теклая</figcaption>
 <a>
 </figure>
@@ -95,7 +95,7 @@
 <p>А в этом варианте - только картинка</p>
 <figure>
 <a href="http://www.gisa.ru" target="_blank">
-  <img src="Пальма Теклая.png" alt="Нет фото" style="width:250x; height:150px; border:3px solid #ff00ff;">
+  <img src="media/a6370fe89c7468bc99dd84783a8ccaee.png" alt="Нет фото" style="width:250x; height:150px; border:3px solid #ff00ff;">
 <a>
   <figcaption>Это пальма Теклая</figcaption>
 </figure>
