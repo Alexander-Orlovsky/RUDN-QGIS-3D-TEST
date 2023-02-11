@@ -44,7 +44,7 @@
 
 
 Длинный блок кода  
-`WHEN "building:levels" IS NULL THEN ( 30 * rand(90, 110)/100 + 20 ) WHEN "building:levels" IS NULL THEN ( 30 * rand(90, 110)/100 + 20 ) WHEN "building:levels" IS NULL THEN ( 30 * rand(90, 110)/100 + 20 )`
+`<br> &nbsp;&nbsp; <img src="https://chat.rudn.ru/csportalclient/refimplementation/data/logo.png" width=160> <p style="font-size: 16px; color: #0079c1; text-indent: 5px; margin-top: 5px;"> <b> &nbsp;&nbsp;&nbsp;&nbsp; 3D-геопортал окрестностей Махачкалы </b> </p>`
 
 
 
