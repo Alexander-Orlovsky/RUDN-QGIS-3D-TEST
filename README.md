@@ -43,8 +43,8 @@
 Блок кода завершился
 
 
-Длинный блок кода   
-`   WHEN "building:levels" IS NULL THEN ( 30 * rand(90, 110)/100 + 20 ) WHEN "building:levels" IS NULL THEN ( 30 * rand(90, 110)/100 + 20 ) WHEN "building:levels" IS NULL THEN ( 30 * rand(90, 110)/100 + 20 )  `
+Длинный блок кода  
+`WHEN "building:levels" IS NULL THEN ( 30 * rand(90, 110)/100 + 20 ) WHEN "building:levels" IS NULL THEN ( 30 * rand(90, 110)/100 + 20 ) WHEN "building:levels" IS NULL THEN ( 30 * rand(90, 110)/100 + 20 )`
 
 
 
