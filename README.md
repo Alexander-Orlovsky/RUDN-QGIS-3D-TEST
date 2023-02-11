@@ -42,6 +42,10 @@
 
 Блок кода завершился
 
+---------------------
+- - - - - - - - -
+********
+* * * * *
 
 Длинный блок кода  
     <br> &nbsp;&nbsp; <img src="https://www.rudn.ru/u/www/images/for_smi_image/logo_rudn_eng.png" width=160>  
