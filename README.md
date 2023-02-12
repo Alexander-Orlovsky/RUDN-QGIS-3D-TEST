@@ -39,7 +39,7 @@
             <!-- Тело документа -->
         </body>
     </html>
-
+{: .python}
 Блок кода завершился
 
 ---------------------
@@ -60,7 +60,7 @@ $$\phi_{n}(\kappa) = \frac{1}{4\pi^{2}\kappa^{2}}\int_{0}^{\infty}\frac{\sin(\ka
 <b> &nbsp;&nbsp;&nbsp;&nbsp; 3D-геопортал окрестностей Махачкалы </b> </p>
 
 ```
-
+{: .python}
 
 **КАРТА**  
 <script src="https://embed.github.com/view/geojson/benbalter/dc-wifi-social/master/bars.geojson?height=300&width=500"></script>
