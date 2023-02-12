@@ -116,7 +116,7 @@ $$\phi_{n}(\kappa) = \frac{1}{4\pi^{2}\kappa^{2}}\int_{0}^{\infty}\frac{\sin(\ka
 ---------------------
 
 
-<details><summary>CLICK ME</summary>
+<details>CLICK ME
 
 ### Так можно скрыть что угодно, даже код!
 ```ruby
