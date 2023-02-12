@@ -98,6 +98,21 @@ $$\phi_{n}(\kappa) = \frac{1}{4\pi^{2}\kappa^{2}}\int_{0}^{\infty}\frac{\sin(\ka
 
 
 
+> ## Why write a program to do that?
+> 
+> Note that you can easily manually count the number of bacteria colonies shown
+> in the morphometric example above. Why should we learn how to write a Python
+> program to do a task we could easily perform with our own eyes? There are at
+> least two reasons to learn how to perform tasks like these with Python and
+> skimage:
+> 
+> 1. What if there are many more bacteria colonies in the Petri dish? For 
+> 	example, suppose the image looked like this:
+
+
+
+
+
 <!-- ===================================================================================================================== -->
 
 
