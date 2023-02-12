@@ -62,8 +62,8 @@ $$\phi_{n}(\kappa) = \frac{1}{4\pi^{2}\kappa^{2}}\int_{0}^{\infty}\frac{\sin(\ka
 ```
 
 
-**КАРТА**
-<script src="https://embed.github.com/view/geojson/benbalter/dc-wifi-social/master/bars.geojson"></script>
+**КАРТА**  
+<script src="https://embed.github.com/view/geojson/benbalter/dc-wifi-social/master/bars.geojson?height=300&width=500"></script>
 
 
 <!-- ===================================================================================================================== -->
@@ -90,7 +90,7 @@ $$\phi_{n}(\kappa) = \frac{1}{4\pi^{2}\kappa^{2}}\int_{0}^{\infty}\frac{\sin(\ka
 
 <h3>Это пример вставки ЗЩ в свою HTML-страницу с использованием iframe</h3>
 <p>А это правильные рекомендации: You can use the height and width attributes to specify the size of the iframe:</p>
-<iframe src="http://umap.openstreetmap.fr/ru/map/anonymous-edit/520224:cfEjyfnEYo7wlFFITRK3W5R8R4Y"  style="border:2px solid red; height:200px; width:50%; margin-left:100px;"
+<iframe src="http://umap.openstreetmap.fr/ru/map/anonymous-edit/520224:cfEjyfnEYo7wlFFITRK3W5R8R4Y"  style="border:2px solid red; height:200px; width:100%; margin-left:100px;"
        >Почему-то текст здесь не на что не влияет, но и не виден???</iframe>
 
 <br>
