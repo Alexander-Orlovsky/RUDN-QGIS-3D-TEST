@@ -65,7 +65,8 @@ $$\phi_{n}(\kappa) = \frac{1}{4\pi^{2}\kappa^{2}}\int_{0}^{\infty}\frac{\sin(\ka
 **КАРТА**  
 <script src="https://embed.github.com/view/geojson/benbalter/dc-wifi-social/master/bars.geojson?height=300&width=500"></script>
   
-  
+---------------------
+---------------------
   
 ***Использование GeoJSON***  
 Например, можно создать простую карту:  
@@ -96,7 +97,8 @@ $$\phi_{n}(\kappa) = \frac{1}{4\pi^{2}\kappa^{2}}\int_{0}^{\infty}\frac{\sin(\ka
 }
 ```
 
-
+---------------------
+---------------------
 
 > ## Why write a program to do that?
 > 
@@ -109,7 +111,8 @@ $$\phi_{n}(\kappa) = \frac{1}{4\pi^{2}\kappa^{2}}\int_{0}^{\infty}\frac{\sin(\ka
 > 1. What if there are many more bacteria colonies in the Petri dish? For 
 > 	example, suppose the image looked like this:
 
-
+---------------------
+---------------------
 
 
 
