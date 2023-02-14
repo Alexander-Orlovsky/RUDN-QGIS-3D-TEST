@@ -401,7 +401,7 @@ $$\phi_{n}(\kappa) = \frac{1}{4\pi^{2}\kappa^{2}}\int_{0}^{\infty}\frac{\sin(\ka
 ![](media/cedeea44f5b71f2f48034777e2627bbf.png)
 
 
-<p style="text-align: center;"><img src="/RUDN-QGIS-3D/media/cedeea44f5b71f2f48034777e2627bbf.png" alt="Нет фото" style="width:25%; border:3px solid #ff00ff;"></p>
+<p style="text-align: center;"><img src="/RUDN-QGIS-3D/media/cedeea44f5b71f2f48034777e2627bbf.png" alt="Нет фото" style="width:40%; border:3px solid #ff00ff;"></p>
 
 
 Либо (если включена опция «Clip geometries») окажутся «вертикально разрезанными»  
