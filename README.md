@@ -400,15 +400,15 @@ $$\phi_{n}(\kappa) = \frac{1}{4\pi^{2}\kappa^{2}}\int_{0}^{\infty}\frac{\sin(\ka
 
 ![](media/cedeea44f5b71f2f48034777e2627bbf.png)
 
-<center>
-<p><img src="/RUDN-QGIS-3D/media/cedeea44f5b71f2f48034777e2627bbf.png" alt="Нет фото" style="width:25%; border:3px solid #ff00ff;"></p>
-</center>
+
+<p style="text-align: center;"><img src="/RUDN-QGIS-3D/media/cedeea44f5b71f2f48034777e2627bbf.png" alt="Нет фото" style="width:25%; border:3px solid #ff00ff;"></p>
+
 
 Либо (если включена опция «Clip geometries») окажутся «вертикально разрезанными»  
 по линии границы вашей 3D-модели и будут выглядеть не вполне естественно для зданий. При этом такие «разрезы» зданий будут находиться на самой границе 3D-модели, придавая ей несколько неопрятный (неэстетичный) вид.
 
 <center>
-<p><img src="/RUDN-QGIS-3D/media/1a339ac828e14319ec51534d14ff4aef.png" alt="Нет фото" style="width:300px; height:100px; border:3px solid #ff00ff;"></p>
+<img src="/RUDN-QGIS-3D/media/1a339ac828e14319ec51534d14ff4aef.png" alt="Нет фото" style="width:300px; height:100px; border:3px solid #ff00ff;">
 </center>
 
 Поэтому удалите такие «лишние» здания из вашего слоя «Здания».
