@@ -144,10 +144,6 @@ $$\phi_{n}(\kappa) = \frac{1}{4\pi^{2}\kappa^{2}}\int_{0}^{\infty}\frac{\sin(\ka
 ---------------------
 ---------------------
 
-<HTML>
-<HEAD>
-<TITLE>Созданиетаблицы</TITLE>
-</HEAD>
 <BODY>
 <TABLEborder="3">
 <TR>
@@ -173,7 +169,6 @@ $$\phi_{n}(\kappa) = \frac{1}{4\pi^{2}\kappa^{2}}\int_{0}^{\infty}\frac{\sin(\ka
 </TR>
 </TABLE>
 </BODY>
-</HTML>
 
 ---------------------
 ---------------------
