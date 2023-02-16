@@ -145,8 +145,27 @@ $$\phi_{n}(\kappa) = \frac{1}{4\pi^{2}\kappa^{2}}\int_{0}^{\infty}\frac{\sin(\ka
 ---------------------
 
 
-|   <details><summary><h3>CLICK ME - пример сворачиваемого/разворачиваемого раздела</h3></summary>  <h3>Тесты А.В.Орловского</h3>  Так можно скрыть что угодно, даже код!  и вообще, как понимаю, все, что угодно :)  </details>   |
-|--------------------|
+<style type="text/css">
+	table.tableizer-table {
+		font-size: 12px;
+		border: 1px solid #CCC; 
+		font-family: Arial, Helvetica, sans-serif;
+	} 
+	.tableizer-table td {
+		padding: 4px;
+		margin: 3px;
+		border: 1px solid #CCC;
+	}
+	.tableizer-table th {
+		background-color: #104E8B; 
+		color: #FFF;
+		font-weight: bold;
+	}
+</style>
+<table class="tableizer-table">
+<thead><tr class="tableizer-firstrow"><th><details><summary><h3>CLICK ME - пример сворачиваемого/разворачиваемого раздела</h3></summary><h3>Тесты А.В.Орловского</h3>Так можно скрыть что угодно, даже код! и вообще, как понимаю, все, что угодно</details></th></tr>
+</tbody></table>
+
 
 
 ---------------------
