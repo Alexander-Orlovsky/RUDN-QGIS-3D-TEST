@@ -147,7 +147,7 @@ $$\phi_{n}(\kappa) = \frac{1}{4\pi^{2}\kappa^{2}}\int_{0}^{\infty}\frac{\sin(\ka
 
 <table style="border: 2px solid #104E8B; background-color:#CCC;">
     <tr>
-        <td style="border: 1px solid #CCC; background-color:#CCC;">
+        <td style="border: 1px solid #ff0000; background-color:#CCC;">
     
 <details><summary><h3>CLICK ME - пример сворачиваемого/разворачиваемого раздела</h3></summary>
     <h3>Тесты А.В.Орловского</h3>
