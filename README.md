@@ -12,7 +12,12 @@
 
 #### Надстрочные знаки: km<sup>2</sup>. Подстрочные знаки: CO<sub>2</sub>
 
-Here is a famous formula: $$E=mc^2$$.
+Here is a famous formula два доллара: $$E=mc^2$$.
+
+
+Here is a famous formula один доллар: $E=mc^2$.
+
+
 
 
 Создайте копию файла «Заготовка Проекта 3D.qgs», расположенного в корне папки «RUDN-QGIS-3D» с учебными материалами.
