@@ -438,7 +438,7 @@ $$\phi_{n}(\kappa) = \frac{1}{4\pi^{2}\kappa^{2}}\int_{0}^{\infty}\frac{\sin(\ka
 по линии границы вашей 3D-модели и будут выглядеть не вполне естественно для зданий. При этом такие «разрезы» зданий будут находиться на самой границе 3D-модели, придавая ей несколько неопрятный (неэстетичный) вид.
 
 <center>
-<img src="https://raw.githubusercontent.com/Alexander-Orlovsky/RUDN-QGIS-3D/main/media/1a339ac828e14319ec51534d14ff4aef.png" alt="Нет фото" style="width:1400px; height:300px; border:3px solid #000ffff;">
+<img src="https://raw.githubusercontent.com/Alexander-Orlovsky/RUDN-QGIS-3D/main/media/1a339ac828e14319ec51534d14ff4aef.png" alt="Нет фото" style="width:1400px; height:300px; border:3px solid #00ffff;">
 </center>
 
 Поэтому удалите такие «лишние» здания из вашего слоя «Здания».
