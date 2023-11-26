@@ -11,19 +11,24 @@
 
 
 
+<!-- Начало блока кода, который я вставил для корректного рендеринга MathJax/LaTeX математических выражений в GitHub Pages -->
+
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
   tex2jax: {
     inlineMath: [['$','$'], ['\\(','\\)']],
-    processEscapes: true
+    displayMath: [ ['$$', '$$'], ["\\[", "\\]"] ],
+    processEscapes: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
   }
 });
 </script>
-  
-  <!-- MathJax -->
+
     <script type="text/javascript"
       src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
     </script>
+
+<!-- Конец блока кода, который я вставил для корректного рендеринга MathJax/LaTeX математических выражений в GitHub Pages -->
 
 
     {% include head-custom.html %}
