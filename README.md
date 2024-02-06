@@ -536,11 +536,11 @@ $$\phi_{n}(\kappa) = \frac{1}{4\pi^{2}\kappa^{2}}\int_{0}^{\infty}\frac{\sin(\ka
 
 <h3>Это пример вставки ЗЩ в свою HTML-страницу с использованием iframe</h3>
 <p>А это правильные рекомендации: You can use the height and width attributes to specify the size of the iframe:</p>
-<iframe src="https://adana-turkey.netlify.app/"  style="border:2px solid red; height:300px; width:100%;"></iframe>
+<iframe src="https://adana-turkey.netlify.app/"  style="border:2px solid red; height:600px; width:100%;"></iframe>
 <br>
 <br>
 <br>
-<iframe src="https://mk-4.netlify.app"  style="border:2px solid red; height:300px; width:100%;"></iframe>
+<iframe src="https://mk-4.netlify.app"  style="border:2px solid red; height:600px; width:100%;"></iframe>
 <br>
 <br>
 <br>
