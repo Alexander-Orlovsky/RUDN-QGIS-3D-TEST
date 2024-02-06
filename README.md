@@ -542,6 +542,12 @@ $$\phi_{n}(\kappa) = \frac{1}{4\pi^{2}\kappa^{2}}\int_{0}^{\infty}\frac{\sin(\ka
 <br>
 <br>
 <br>
+
+<iframe src="https://s3.eu-central-1.amazonaws.com/old-maps/the-hague-1944/index.html" style="width:100%;height:350px;border:none;"></iframe>
+
+<br>
+<br>
+<br>
 <h3>Это пример вставки гиперссылки, как картинки и логически связанной с ней подписью:</h3>
 <!-- Нашел его здесь https://netology-code.github.io/guides/wm-cheat-sheet -->
 
