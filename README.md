@@ -5,8 +5,16 @@ Typesetting Math in Texts
 https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c
 
 
+
+
+
 Basic math
 ----------
+
+<video>
+ <source src="https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c">
+</video>
+
 
 Whenever you typeset mathematical notation, it needs to have вЂњMathвЂќ style. For
 example: If $a$ is an integer, then $2a+1$ is odd.
