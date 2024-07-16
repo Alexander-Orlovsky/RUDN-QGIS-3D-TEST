@@ -1,6 +1,10 @@
 Typesetting Math in Texts
 =========================
 
+
+https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c
+
+
 Basic math
 ----------
 
