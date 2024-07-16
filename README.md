@@ -5,7 +5,7 @@ Typesetting Math in Texts
 https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c
 
 
-<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
 
