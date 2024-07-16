@@ -4,7 +4,7 @@ Typesetting Math in Texts
 
 <!-- https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c -->
 
-<video src="https://private-user-images.githubusercontent.com/40177482/349188260-1fe3a102-1213-47ac-9b5b-4ebc1a40b17c.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://private-user-images.githubusercontent.com/40177482/349188260-1fe3a102-1213-47ac-9b5b-4ebc1a40b17c.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjExNTIyODIsIm5iZiI6MTcyMTE1MTk4MiwicGF0aCI6Ii80MDE3NzQ4Mi8zNDkxODgyNjAtMWZlM2ExMDItMTIxMy00N2FjLTliNWItNGViYzFhNDBiMTdjLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE2VDE3NDYyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVlMGVlZjJlNzFiYzcxN2M2NDhkNTQwMTlhOGEzNDMxZDAzMWQ5ZGRmZDA2OWMwYWQ1OTEwZDNhNzVjYTc1ZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.kRveaiyUBjEbh8oeN8e5EnjgtOTzPmotxCbAlcC8Gec" controls="controls" style="max-width: 730px;">
 </video>
 
 
@@ -13,7 +13,7 @@ Typesetting Math in Texts
 Basic math
 ----------
 
-Ха-ха-ха
+Ха
 
 <video src="[[[https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4](https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c)](https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c)](https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c)" controls="controls" style="max-width: 730px;">
 </video>
