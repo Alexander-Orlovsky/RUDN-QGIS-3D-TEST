@@ -2,8 +2,7 @@ Typesetting Math in Texts
 =========================
 
 
-https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c
-
+<!-- https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c -->
 
 <video src="https://private-user-images.githubusercontent.com/40177482/349188260-1fe3a102-1213-47ac-9b5b-4ebc1a40b17c.mp4" controls="controls" style="max-width: 730px;">
 </video>
