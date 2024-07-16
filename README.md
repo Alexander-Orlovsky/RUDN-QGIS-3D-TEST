@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c
 Basic math
 ----------
 
-Ха-ха
+Ха-ха-ха
 
 <video src="[[[https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4](https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c)](https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c)](https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c)" controls="controls" style="max-width: 730px;">
 </video>
