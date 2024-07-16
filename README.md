@@ -11,9 +11,16 @@ https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c
 Basic math
 ----------
 
-<video>
- <source src="https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c">
-</video>
+Ха-ха
+
+  <video width="400" height="300" controls="controls" poster="video/duel.jpg">
+   <source src="[video/duel.mp4](https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c)" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+   Тег video не поддерживается вашим браузером. 
+   <a href="video/duel.mp4">Скачайте видео</a>.
+  </video>
+
+
+
 
 
 Whenever you typeset mathematical notation, it needs to have вЂњMathвЂќ style. For
