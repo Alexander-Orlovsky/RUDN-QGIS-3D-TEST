@@ -13,13 +13,8 @@ Basic math
 
 Ха-ха
 
-  <video width="400" height="300" controls="controls" poster="video/duel.jpg">
-   <source src="[video/duel.mp4](https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c)" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
-   Тег video не поддерживается вашим браузером. 
-   <a href="video/duel.mp4">Скачайте видео</a>.
-  </video>
-
-
+<video src="[[[https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4](https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c)](https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c)](https://github.com/user-attachments/assets/1fe3a102-1213-47ac-9b5b-4ebc1a40b17c)" controls="controls" style="max-width: 730px;">
+</video>
 
 
 
