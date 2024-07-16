@@ -14,12 +14,7 @@ Typesetting Math in Texts
 
 ХХХХХХХХХХХХХХ ХХХХХХХХХХХХХХ ХХХХХХХХХХХХХХ
 
-<video src="./media/video_2024-06-11_21-13.mp4" controls="controls" style="max-width: 730px;">
-</video>
-
-5 5 5 5 5 5 5 5
-
-![](media/video_2024-06-11_21-13.mp4)
+<video src="./media/video_2024-06-11_21-13.mp4"></video>
 
 
 Basic math
