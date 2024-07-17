@@ -23,7 +23,7 @@ Typesetting Math in Texts
     <span class="dropdown-caret"></span>
   </summary>
 
-  <video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" data-canonical-src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+  <video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" data-canonical-src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-width:640px;">
 
   </video>
 </details>
@@ -39,7 +39,7 @@ Basic math
   controls="controls"
   muted="muted"
   class="d-block rounded-bottom-2 width-fit"
-  style="max-height:640px;">
+  style="max-width:640px;">
   </video>
 
 
