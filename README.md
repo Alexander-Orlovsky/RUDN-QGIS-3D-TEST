@@ -1,13 +1,13 @@
 Typesetting Math in Texts
 =========================
+_video-test.mp4
 
-
-<video src="./media/_video-test.mp4" controls="controls" style="max-width: 730px;">
+<video src="./media/video_2024-06-11_21-13.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
 ХХХХХХХХХХХХХХ ХХХХХХХХХХХХХХ ХХХХХХХХХХХХХХ
 
-<video src="./media/video_2024-06-11_21-13.mp4"
+<video src="./media/_video-test.mp4"
        controls="controls"
        style="max-width: 400px;">
 </video>
