@@ -1,9 +1,9 @@
 Typesetting Math in Texts
 =========================
-
+./media/video-test.mp4
 <br><br>
 
-<video src="./media/video-test.mp4"
+<video src="https://alexander-orlovsky.github.io/RUDN-QGIS-3D-TEST/media/video_test.mp4"
        controls="controls"
        style="max-width: 500px;">
 </video>
