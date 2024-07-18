@@ -1,28 +1,18 @@
 Typesetting Math in Texts
 =========================
 
-<br><br><br>
+<br><br>
 
 <video src="./media/video-test.mp4"
        controls="controls"
        style="max-width: 500px;">
 </video>
 
-<br><br><br>
+<br><br>
 
 
 Basic math
 ----------
-
-  <video         src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4"
-  data-canonical-src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4"
-  controls="controls"
-  muted="muted"
-  class="d-block rounded-bottom-2 width-fit"
-  style="max-width: 600px;">
-  </video>
-
-
 
 Whenever you typeset mathematical notation, it needs to have вЂњMathвЂќ style. For
 example: If $a$ is an integer, then $2a+1$ is odd.
