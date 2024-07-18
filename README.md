@@ -4,7 +4,7 @@ Typesetting Math in Texts
 <br><br>
 
 
-<video src="https://github.com/user-attachments/assets/c6cb6ba4-fe31-4804-8d14-acabf9293616"
+<video src="https://github.com/user-attachments/assets/3aee6766-055e-44b9-89a6-c1b71bf75f78"
 	controls="controls"
 	controlsList="nodownload disablepictureinpicture"
 	muted="muted"
