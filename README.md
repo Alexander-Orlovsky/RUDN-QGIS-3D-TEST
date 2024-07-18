@@ -9,7 +9,7 @@ Typesetting Math in Texts
 	controlsList="nodownload disablepictureinpicture"
 	muted="muted"
 	playsinline="true"
-	style="max-width: 300px;">
+	style="max-width: 200px;">
 </video>
 
 
